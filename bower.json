@@ -1,0 +1,21 @@
+{
+  "name": "testbower",
+  "version": "0.0.1",
+  "homepage": "https://github.com/lin-fun/testbower",
+  "authors": [
+    "lin-fun <273550963@qq.com>"
+  ],
+  "description": "sdsf",
+  "main": "test.js",
+  "keywords": [
+    "fs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
